@@ -40,7 +40,7 @@ A simple space shooter game where players navigate their spaceship, shoot enemie
 
 ## Author
 
-Developed by [Your Name](https://github.com/sadhusoumik)
+Developed by [Soumik](https://github.com/sadhusoumik)
 
 ## License
 
